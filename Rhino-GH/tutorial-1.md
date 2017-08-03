@@ -65,5 +65,7 @@ Exercise: Divide a circle into N points. Connect points to their neighboring poi
 練習： 將一圓分為 N 段，得到 N 點。將每個點連接到隔壁點，建立 N 條線段。在所有線段上取中點，再連結這些中點與隔壁點，形成漩渦狀圖案。重複此操作 3-4 次。
 ```
 
+https://github.com/junehao/DesignComputing101/blob/master/Rhino-GH/images/1-1-vortex.png
+
 ## Homework
 尋找感興趣、具重複性、具規則性的圖騰或圖案，研究其幾何構圖規則，試著用 Grasshopper 建構出來。（局部即可）
