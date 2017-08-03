@@ -19,7 +19,7 @@ Exercise: Learn to navigate yourself in the viewports by mouse and keyboard.
 練習：熟悉工作視窗中用滑鼠和鍵盤進行攝影機瀏覽。
 ```
 
-##Part 2 (Rhino)
+## Part 2 (Rhino)
 
 * Grid Snap, Osnap (Object Snap), Gumball 鎖點、鎖物件與快速調整工具
 * Copy and paste
