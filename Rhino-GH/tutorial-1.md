@@ -3,7 +3,8 @@ Tutorial 1
 
 Download: [example 1](example-1-1.gh) | [example 2](example-1-2.gh)
 
-Part 1 (Rhino)
+## Part 1 (Rhino)
+
 * UI and workspace: menu, toolbar, viewport, command line
 * Create simple boxes
 * Navigation in viewport: pan, zoom, rotate 工作視窗內瀏覽（運鏡）
@@ -18,7 +19,8 @@ Exercise: Learn to navigate yourself in the viewports by mouse and keyboard.
 練習：熟悉工作視窗中用滑鼠和鍵盤進行攝影機瀏覽。
 ```
 
-Part 2 (Rhino)
+##Part 2 (Rhino)
+
 * Grid Snap, Osnap (Object Snap), Gumball 鎖點、鎖物件與快速調整工具
 * Copy and paste
 * Command prompt 命令列、指令、參數、手動輸入
@@ -32,7 +34,8 @@ Exercise: Create 20 boxes with various sizes and transformations as fast as poss
 練習：嘗試在最短時間內建立 20 個大小、旋轉、縮放皆不同的方盒子，盡可能用聰明的方法。
 ```
 
-Part 3 (Grasshopper)
+## Part 3 (Grasshopper)
+
 * How Grasshopper work with Rhino?
 * UI and workspace: menu, toolbar, component tabs
 * Param components as containers 參數元件作為資料容器（變數）
@@ -52,7 +55,8 @@ Exercise: Observe the result of data pairing by using different components and d
 練習：用不同元件和資料串列，嘗試不同的配對方式，觀察配對結果。
 ```
 
-Part 4 (Grasshopper)
+## Part 4 (Grasshopper)
+
 * Curve, planar curve & spatial curve
 * `Point on Curve` component: Pros & Cons 曲線上取點（以及優缺點）
 * `Evaluate Curve` component: Pros & Cons 曲線估值（以及優缺點）
