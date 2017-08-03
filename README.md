@@ -1,37 +1,23 @@
 # Design Computing 101
-Introduction to Design Computing and Computational Design to those who interested in Digital Design.
 
-## Requirements
-* A computer or laptop.
-* Windows is preferred. macOS may need a Virtual Machine to run Windows environment.
+This free tutorial is intended for those who are interested in computational design and creative coding -- by using various tools from visual programming to hard coding. Original targeted readers are incoming MS & MArch II students of the Graduate Institute of Architecture, National Chiao Tung University.
+
+設計運算基礎 這個課程的目標讀者是對運算式設計和創意程式開發感興趣的初學者，內容是一系列的軟體、視覺化程式環境與程式語言介紹和學習指引。課程內容是以國立交通大學建築研究所數位設計組、建築設計組入學新生的暑期先修課需求而規劃。
+
+## Preparation 準備工作
+
+* A computer or laptop, either Windows or macOS.
 * Latest version of Rhino and Grasshopper.
 * Latest version of Processing.
 * Curiosity and ambition to explore computational design.
 
-## Rhino Basics
-* UI and workspace
-* Navigation in Rhino: Pan, Zoom, Rotate
-* Cartesian Coordinate System
-* Point, Line, Curve
+* 你需要一台電腦或筆電，Windows 或 macOS 皆可。
+* 安裝最新版 Rhino 和 Grasshopper。
+* 安裝最新版 Processing。
+* 探索設計運算領域的好奇心與企圖心。
 
-> How do we get Points on Curve?
+## 教材類別
 
-* Basic modeling by primitives
-* Basic Transformation
-* Gumball & env. configuration
-
-> Rapid Modeling: 20 objects with various shapes and transformations, in 10 minutes.
-
-* Command Line Interface (CLI)
-* Resources for Self Learning
-
-> Modeling Rules: Design a rule of modeing. Do it iteratively on an object -- elaboration.
-
-* Basic Rendering: Modes and Settings
-
-## Grasshopper Basics
-* What is Grasshopper?
-* Point, Line, Curve
-* Parameters and Variables
-* Linked relationships
-
+* [Rhino & Grasshopper](./Rhino-GH)
+* Processing
+* Arduino
