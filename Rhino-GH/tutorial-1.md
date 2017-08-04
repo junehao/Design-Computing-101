@@ -2,7 +2,7 @@
 
 # Rhino & Grasshopper: Basics
 
-Download: [example 1](example-1-1.gh) | [example 2](example-1-2.gh)
+Downloads: [example-1-1.gh](example-1-1.gh), [example-1-2.gh](example-1-2.gh)
 
 ## Part 1 (Rhino)
 
