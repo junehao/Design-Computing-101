@@ -1,6 +1,6 @@
 [Home](../README.md) > [Rhino+GH](./README.md) > Tutorial 1
 
-# Rhino & Grasshopper: Basics
+# Rhino & Grasshopper: Basics 基本入門
 
 Downloads: [example-1-1.gh](example-1-1.gh), [example-1-2.gh](example-1-2.gh)
 
