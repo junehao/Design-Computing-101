@@ -1,6 +1,6 @@
-# Tutorials and Examples for Rhino & Grasshopper
+# Rhino & Grasshopper 基礎
 
-* [Tutorial 1: Basics](./tutorial-1.md) 基本入門
+* [Tutorial 1: Basics 基本入門](./tutorial-1.md)
 * Tutorial 2: Math & Design
 * Tutorial 3: Problem Solving
 
