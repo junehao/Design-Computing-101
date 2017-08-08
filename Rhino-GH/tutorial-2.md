@@ -27,7 +27,7 @@ Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少�
 * Practical examples:
   * List of columns in multiple stories 柱列 + 多樓層
   * Array of circles with various radii 不同半徑的圓陣列
-  * Circles on curves 曲線上圓
+  * Circles on curves 曲線上圓
   * Columns & Grilles (Shades) 柱子與格柵
 * List processing 串列處理
 
