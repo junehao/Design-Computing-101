@@ -1,4 +1,4 @@
-Home > Rhino+GH > Tutorial 2
+[Home](../README.md) > [Rhino+GH](./README.md) > Tutorial 2
 
 # Tutorial 2: Math and Design
 
@@ -11,6 +11,8 @@ Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少�
    1, 0, -1, 0, 1, 0, -1, 0, 1, 0,... (多種做法)
    1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4,...
 2. 用 Evaluate Curve 元件對任意曲線取中點
+3. 任意N個點，任意一圓Ｃ，請判斷在圓內的點有哪些。
+4. 用一般算數元件製作階乘(Factorial)運算
 ```
 
 ## Basics
@@ -26,6 +28,7 @@ Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少�
   * List of columns in multiple stories 柱列 + 多樓層
   * Array of circles with various radii 不同半徑的圓陣列
   * Circles on curves
+  * Columns & Grilles (Shades) 柱子與格柵
 * List components
 * Pairing (more)
 
@@ -39,6 +42,7 @@ Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少�
 
 * Max & Min
 * Trigonometry functions
+* And more
 
 ## Data List (3) 資料串列之三
 
