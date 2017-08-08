@@ -3,7 +3,7 @@
 # Rhino & Grasshopper 基礎
 
 * [Tutorial 1: Basics 基本入門](./tutorial-1.md)
-* Tutorial 2: Math & Design
+* [Tutorial 2: Math & Design](./tutorial-2.md)
 * Tutorial 3: Problem Solving
 
 ## Learning Resources 自學教材
