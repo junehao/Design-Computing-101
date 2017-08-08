@@ -1,6 +1,6 @@
 [Home](../README.md) > [Rhino+GH](./README.md) > Tutorial 2
 
-# Tutorial 2: Math and Design
+# Tutorial 2: Math and Design 數學與設計
 
 ```
 Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少元件愈好）
@@ -24,26 +24,33 @@ Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少�
 
 ## Data List (2) 資料串列之二
 
-* Real world examples:
+* Practical examples:
   * List of columns in multiple stories 柱列 + 多樓層
   * Array of circles with various radii 不同半徑的圓陣列
-  * Circles on curves
-  * Columns & Grilles (Shades) 柱子與格柵
-* List components
-* Pairing (more)
+  * Circles on curves 曲線上圓
+  * Columns & Grilles (Shades) 柱子與格柵
+* List processing 串列處理
 
 ## Mapping & Conversion 數值對應與轉換
 
-* Series, Range, Resolution, Sampling
-* Linear conversion
-* `Map` component
+* Series, Range, Resolution, Sampling 數值序列、數值範圍、解析度、取樣
+* Linear conversion 線性轉換
+* `Graph Mapper` component 圖形對映
 
-## Math Components 常用數學元件
+## Math Components 數學元件
 
-* Max & Min
-* Trigonometry functions
-* And more
+* Common math components 常用數學運算
+* Trigonometry functions 三角函數、角度徑度轉換
+* Max, Min 最大、最小值
+* Domain & Domain<sup>2</sup> 值域、二維值域
+* Expression 數學算式
 
 ## Data List (3) 資料串列之三
 
-* Compound list (data tree)
+* Compound list (data tree) 複合資料串列（資料樹）
+
+# Exercise 練習
+
+入門班：
+
+進階班：
