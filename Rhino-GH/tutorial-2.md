@@ -2,12 +2,30 @@ Home > Rhino+GH > Tutorial 2
 
 # Tutorial 2: Math and Design
 
+```
+Review: Associated Objects & Parameters 物件與參數關聯性（使用愈少元件愈好）
+1. 生成以下數列：
+   0, 0, 0, 0, 0, 0, 0, 0, 0, 0 (共10項)
+   1, 3, 5, 7, 9, 11, 13, 15, 17, 19 (共10項)
+   1, 4, 7, 10, 13, 16, 19, 22, 25, 28 (共10項)
+   1, 0, -1, 0, 1, 0, -1, 0, 1, 0,... (多種做法)
+   1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4,...
+2. 用 Evaluate Curve 元件對任意曲線取中點
+```
+
+## Basics
+
+* Bake 烘焙（實體化）
+* Inputs & Pre-process, Outputs & post-process of data in a component 輸入值與前處理、輸出值與後處理
+* Implicit vs. Explicit data 隱性與顯性資料
+* Management of components: enable/disable, preview on/off, group, cluster (macro) 元件管理
+
 ## Data List (2) 資料串列之二
 
 * Real world examples:
-  * List of columns in multiple stories 柱列 + 多樓層
-  * Array of circles with various radii 不同半徑的圓陣列
-  * Circles on curves
+  * List of columns in multiple stories 柱列 + 多樓層
+  * Array of circles with various radii 不同半徑的圓陣列
+  * Circles on curves
 * List components
 * Pairing (more)
 
