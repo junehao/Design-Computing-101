@@ -4,13 +4,13 @@
 
 This free tutorial is intended for those who are interested in computational design and creative coding -- by using various tools from visual programming to hard coding. Original targeted readers are incoming MS & MArch II students of the Graduate Institute of Architecture, National Chiao Tung University.
 
+## 教材類別
+
+[<img src="./images/rhino-gh-icon.png" style="width:150px;" />](./Rhino-GH "Rhino + Grasshopper")  [<img src="./images/processing3-logo.png" style="width:150px;" />](./Processing "Processing")
+
 ## Preparation 準備工作
 
 * Windows 或 macOS 電腦（筆電）
 * 最新版 Rhino 和 Grasshopper
 * 最新版 Processing
 * 探索設計運算領域的好奇心與企圖心
-
-## 教材類別
-
-[<img src="./images/rhino-gh-icon.png" style="width:150px;" />](./Rhino-GH "Rhino + Grasshopper")  [<img src="./images/processing3-logo.png" style="width:150px;" />](./Processing "Processing")
