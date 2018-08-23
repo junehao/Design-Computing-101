@@ -8,8 +8,7 @@ This free tutorial is intended for those who are interested in computational des
 
 ![Rhino + Grasshopper]<img src="images/rhino-gh-icon.png" width="150" />
 (./Rhino-GH "")
-![images/processing3-logo.png](Processing)
-(./Processing "Processing")
+![<img src="images/processing3-logo.png" width="150" />](Processing "Processing")
 
 ## Preparation 準備工作
 
