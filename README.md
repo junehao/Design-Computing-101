@@ -7,8 +7,7 @@ This free tutorial is intended for those who are interested in computational des
 ## 教材類別
 
 [<img src="./images/rhino-gh-icon.png" width="150" alt="Rhino + Grasshpper" />](Rhino-GH)
-
-![<img src="images/processing3-logo.png" width="150" />](Processing "Processing")
+[<img src="./images/processing3-logo.png" width="150" alt="Processing" />](Processing)
 
 ## Preparation 準備工作
 
