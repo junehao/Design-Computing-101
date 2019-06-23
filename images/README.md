@@ -1,1 +1,1 @@
-i
+Placeholder for image resources.
